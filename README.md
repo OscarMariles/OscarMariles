@@ -10,7 +10,7 @@ Actualmente estoy enfocado en mejorar mis habilidades en:
 * APIs REST con Spring Boot
 * Persistencia con JPA / Hibernate
 * Buenas prácticas (Clean Code, arquitectura por capas)
-* 
+  
 🚀 Proyecto destacado
 
 🔗 Micro Lending System
