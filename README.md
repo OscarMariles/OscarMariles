@@ -1,6 +1,7 @@
 👋 Hola, soy Oscar Altamirano
 
 💻 Backend Developer Jr | Java | Spring Boot
+
 📍 Ciudad de México
 
 Soy desarrollador backend en formación con experiencia en logística y operaciones, lo que me permite construir soluciones enfocadas en eficiencia y procesos reales.
@@ -14,7 +15,7 @@ Actualmente estoy enfocado en mejorar mis habilidades en:
 🚀 Proyecto destacado
 
 🔗 Micro Lending System
-Sistema de gestión de préstamos con Spring Boot
+* Sistema de gestión de préstamos con Spring Boot
 
 🛠️ Tecnologías
 * Java
@@ -22,6 +23,7 @@ Sistema de gestión de préstamos con Spring Boot
 * MySQL
 * JPA / Hibernate
 * Git & GitHub
+  
 📫 Contacto
 
 📧 oaltamirano64@gmail.com
