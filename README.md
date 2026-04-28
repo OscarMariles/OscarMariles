@@ -18,16 +18,21 @@ Actualmente estoy enfocado en mejorar mis habilidades en:
 * Sistema de gestión de préstamos con Spring Boot
 
 🛠️ Tecnologías
-* Java
-* Spring Boot
-* MySQL
-* JPA / Hibernate
-* Git & GitHub
+* ☕ Java
+* 🌱 Spring Boot
+* 🗄️ MySQL
+* 🔗 JPA / Hibernate
+* 🧰 Git & GitHub
 
 📌 Actualmente
 * Mejorando mi proyecto de microcréditos
 * Aprendiendo mejores prácticas en backend
-* Buscando oportunidad como Backend Developer Jr
+* Abierto a oportunidades como Backend Developer Jr
+
+⚡ Intereses
+* Desarrollo Backend
+* Sistemas financieros (fintech)
+* Optimización de procesos
   
 📫 Contacto
 
