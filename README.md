@@ -17,11 +17,11 @@ Actualmente estoy enfocado en mejorar mis habilidades en:
 Sistema de gestión de préstamos con Spring Boot
 
 🛠️ Tecnologías
-Java
-Spring Boot
-MySQL
-JPA / Hibernate
-Git & GitHub
+* Java
+* Spring Boot
+* MySQL
+* JPA / Hibernate
+* Git & GitHub
 📫 Contacto
 
 📧 oaltamirano64@gmail.com
