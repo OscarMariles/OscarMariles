@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hola, soy Oscar Altamirano
 
-<!--
-**OscarMariles/OscarMariles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer Jr | Java | Spring Boot
+📍 Ciudad de México
 
-Here are some ideas to get you started:
+Soy desarrollador backend en formación con experiencia en logística y operaciones, lo que me permite construir soluciones enfocadas en eficiencia y procesos reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy enfocado en mejorar mis habilidades en:
+
+APIs REST con Spring Boot
+Persistencia con JPA / Hibernate
+Buenas prácticas (Clean Code, arquitectura por capas)
+🚀 Proyecto destacado
+
+🔗 Micro Lending System
+Sistema de gestión de préstamos con Spring Boot
+
+🛠️ Tecnologías
+Java
+Spring Boot
+MySQL
+JPA / Hibernate
+Git & GitHub
+📫 Contacto
+
+📧 oaltamirano64@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/oscar-alejandro-altamirano-mariles-948b78210
