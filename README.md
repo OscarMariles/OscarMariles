@@ -23,6 +23,11 @@ Actualmente estoy enfocado en mejorar mis habilidades en:
 * MySQL
 * JPA / Hibernate
 * Git & GitHub
+
+📌 Actualmente
+* Mejorando mi proyecto de microcréditos
+* Aprendiendo mejores prácticas en backend
+* Buscando oportunidad como Backend Developer Jr
   
 📫 Contacto
 
